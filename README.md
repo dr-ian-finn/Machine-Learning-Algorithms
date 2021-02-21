@@ -5,6 +5,6 @@ As can be seen above, I have organized the notebooks into three folders based on
 
 1. *Regression*
 2. *Clustering*
-3. *Others*: This folder contains a notebook for binary decision trees, as well as notebook for Local Sensitivity Hashing (LSH).
+3. *Others*: This folder contains notebooks for binary decision trees and Local Sensitivity Hashing (LSH).
 
 The data used in these notebooks is available upon request.
