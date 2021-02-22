@@ -7,4 +7,4 @@ As can be seen above, I have organized the notebooks into three folders based on
 2. **Clustering**
 3. **Others**: This folder contains notebooks for binary decision trees and Local Sensitivity Hashing (LSH).
 
-The data used in these notebooks can be found in the **Data** folder in csv format. The *images* data used in the **Gaussian Mixture Models with EM** notebook is available upon request.
+The data used in these notebooks can be found in the **Data** folder in csv format, except for the *images* dataset used in the **Gaussian Mixture Models with EM** notebook, which is available upon request.
